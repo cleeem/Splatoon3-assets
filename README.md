@@ -43,8 +43,5 @@ This was possible thanks to the work of clem (me) and the s3s API developed by e
 
 ## weapons
     all the main weapons images
-    Note : some images are smaller depending on
-           the version in wich they were introduced
-           
-    the oldest weapon images are 256px x 256px
-    the newest weapon images are 400px x 400px
+    (image size : 256px x 256px)
+    
