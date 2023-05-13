@@ -46,7 +46,7 @@ This was possible thanks to the work of clem (me) and the s3s API developed by e
     all the main weapons images (2d)
     (image size : 256px x 256px)
 
-#### image2d
+#### image3d
     all the main weapons images (3d)
     (image size : 400px x 400px)
     
