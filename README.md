@@ -33,11 +33,11 @@ This was possible thanks to the work of clem (me) and the s3s API developed by e
     (image size : 400px x 200px)
 
 ## specials
-    all the specials weapon images (blue color)
+    all the specials weapon images (blue/purple color)
     (image size : 100px x 100px)
 
 ## subs
-    all the subs weapon images (blue color)
+    all the subs weapon images (blue/purple color)
     (image size : 100px x 100px)
 
 
