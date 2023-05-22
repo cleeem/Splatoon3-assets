@@ -16,6 +16,8 @@ This was possible thanks to the work of clem (me) and the s3s API developed by e
     (image size : 120px x 120px)
 
 ## gears
+    Please note that all gears are not present
+    I will add them as I go along
 #### headGears
     all the head gears images
     (image size : 256px x 256px)
