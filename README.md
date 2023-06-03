@@ -2,7 +2,7 @@
 Hello !  
 In this repo, you will find high quality splatoon 3 assets.  
 
-This was possible thanks to the work of clem (me) and the s3s API developed by eli
+This was possible thanks to the work of clem and the s3s API developed by eli
 ### [Link to s3s](https://github.com/frozenpandaman/s3s)
 
 # File organisation
